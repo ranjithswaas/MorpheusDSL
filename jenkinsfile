@@ -1,1 +1,1 @@
-echo "pipeline from DSL"
+echo "pipeline job created by DSL"
